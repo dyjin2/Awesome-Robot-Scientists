@@ -166,7 +166,3 @@ When a paper is formally published, update the existing entry with its final tit
 ### Future additions
 
 Robot or platform photos can be added later in collapsible sections, with the source and reuse permission or license recorded. The initial list intentionally stays text-only.
-
----
-
-List layout inspired by [ai4math-papers](https://github.com/Ch2arl4/ai4math-papers).
