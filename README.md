@@ -67,6 +67,10 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   Tianwei Dai, Sriram Vijayakrishnan, Filip T. Szczypiński, et al.  
   *Nature*, **2024**. [Paper](https://doi.org/10.1038/s41586-024-08173-7)
 
+  <a href="https://www.nature.com/articles/s41586-024-08173-7/figures/5"><img src="https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-024-08173-7/MediaObjects/41586_2024_8173_Fig5_ESM.jpg" alt="Liverpool mobile robot gripper handling an NMR sample rack" width="520"></a>
+
+  <sub>Image: <a href="https://www.nature.com/articles/s41586-024-08173-7/figures/5">Dai et al. (2024), Extended Data Figure 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
+
 - **Autonomous chemical research with large language models**  
   Daniil A. Boiko, Robert MacKnight, Ben Kline, and Gabe Gomes.  
   *Nature*, **2023**. [Paper](https://doi.org/10.1038/s41586-023-06792-0)
@@ -117,6 +121,10 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
 - **Autonomous multi-robot synthesis and optimization of metal halide perovskite nanocrystals**  
   Jinge Xu, Christopher H. J. Moran, Arup Ghorai, et al.  
   *Nature Communications*, **2025**. [Paper](https://doi.org/10.1038/s41467-025-63209-4)
+
+  <a href="https://www.nature.com/articles/s41467-025-63209-4/figures/1"><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-63209-4/MediaObjects/41467_2025_63209_Fig1_HTML.png" alt="Rainbow multi-robot nanocrystal synthesis platform: system diagram and hardware photograph" width="520"></a>
+
+  <sub>Image: <a href="https://www.nature.com/articles/s41467-025-63209-4/figures/1">Xu et al. (2025), Figure 1</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
 
 - **Automated synthesis of oxygen-producing catalysts from Martian meteorites by a robotic AI chemist**  
   Qing Zhu, Yan Huang, Donglai Zhou, et al.  
@@ -241,6 +249,10 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   Genki N. Kanda, Taku Tsuzuki, Motoki Terada, et al.  
   *eLife*, **2022**. [Paper](https://doi.org/10.7554/eLife.77007)
 
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9239686/#fig2s1"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b85d/9239686/f04c950f7333/elife-77007-fig2-figsupp1.jpg" alt="Maholo LabDroid cell-culture booth, dual robotic arms, and surrounding laboratory equipment" width="520"></a>
+
+  <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9239686/#fig2s1">Kanda, Tsuzuki et al. (2022), Figure 2—figure supplement 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
+
 - **Cellular extrusion bioprinting improves kidney organoid reproducibility and conformation**  
   Kynan T. Lawlor, Jessica M. Vanslambrouck, J. William Higgins, et al.  
   *Nature Materials*, **2021**. [Paper](https://doi.org/10.1038/s41563-020-00853-9)  
@@ -278,6 +290,6 @@ Omit the arXiv link when unavailable. For a preprint-only paper, replace the las
 
 When a paper is formally published, update the existing entry with its final title, venue, year, and DOI. Link substantive corrections alongside the paper.
 
-### Future additions
+### Images
 
-Robot or platform photos can be added later in collapsible sections, with the source and reuse permission or license recorded. The initial list intentionally stays text-only.
+Selected entries include a robot or platform image, linked to its source figure. Image credits and licenses appear below each image; third-party images retain their original licenses. The first three examples use externally hosted images. When adding an image, include descriptive alt text, a source link, attribution, and the applicable reuse license.
