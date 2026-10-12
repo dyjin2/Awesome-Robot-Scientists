@@ -4,7 +4,7 @@ A curated reading list of **robot scientists and robotic laboratories that perfo
 
 The focus is on physical robots doing science, from robotic assistants and automated experimental platforms to closed-loop, autonomous discovery systems.
 
-**50 papers** | **Last curated: October 5, 2026** | A selected starting list, not an exhaustive bibliography.
+**48 papers** | **Last curated: October 12, 2026** | A selected starting list, not an exhaustive bibliography.
 
 ## Contents
 
@@ -30,7 +30,7 @@ A journal or conference name indicates the published version. An accompanying ar
 
 ## Chemistry
 
-*16 papers.*
+*15 papers.*
 
 Reaction discovery, synthesis methods, reaction optimization, and general chemical experimentation platforms.
 
@@ -155,18 +155,9 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
 
   <sub>Image: <a href="https://cen.acs.org/synthesis/Automating-synthesis-planning-execution/97/i32">Connor Coley and Felice Frankel, via C&amp;EN</a> · Original image rights apply · Unmodified.</sub>
 
-- **Controlling an organic synthesis robot with machine learning to search for new reactivity**  
-  Jarosław M. Granda, Liva Donina, Vincenza Dragone, et al.  
-  *Nature*, **2018**. [Paper](https://doi.org/10.1038/s41586-018-0307-8) | [Author correction (2019)](https://doi.org/10.1038/s41586-019-1218-z)  
-
-  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6223543/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab31/6223543/19ebbe016919/emss-78900-f001.jpg" alt="Controlling an organic synthesis robot with machine learning to search for new reactivity — Fig. 1" width="520"></a>
-
-  <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6223543/">Granda et al., Fig. 1</a> · Original image rights apply · Unmodified.</sub>
-  *Note: Read alongside the correction concerning compound 22 and the associated figures and discussion.*
-
 ## Materials Science
 
-*15 papers.*
+*14 papers.*
 
 Discovery, synthesis, assembly, and testing of functional materials, including catalysts, electrolytes, thin films, nanocrystals, and mechanical structures.
 
@@ -268,14 +259,6 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
 
   <sub>Image: <a href="https://www.nature.com/articles/s41586-020-2442-2">Burger et al., Fig. 1</a> · Original image rights apply · Unmodified.</sub>
 
-- **Autonomous Discovery of Battery Electrolytes with Robotic Experimentation and Machine Learning**  
-  Adarsh Dave, Jared Mitchell, Kirthevasan Kandasamy, et al.  
-  *Cell Reports Physical Science*, **2020**. [Paper](https://doi.org/10.1016/j.xcrp.2020.100264) | [arXiv](https://arxiv.org/abs/2001.09938)
-
-  <a href="https://www.sciencedirect.com/science/article/pii/S2666386420302861"><img src="https://ars.els-cdn.com/content/image/1-s2.0-S2666386420302861-fx1.jpg" alt="Autonomous Discovery of Battery Electrolytes with Robotic Experimentation and Machine Learning — Graphical abstract" width="520"></a>
-
-  <sub>Image: <a href="https://www.sciencedirect.com/science/article/pii/S2666386420302861">Dave et al., Graphical abstract</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
-
 - **Self-driving laboratory for accelerated discovery of thin-film materials**  
   Benjamin P. MacLeod, Fraser G. L. Parlane, Thomas D. Morrissey, et al.  
   *Science Advances*, **2020**. [Paper](https://doi.org/10.1126/sciadv.aaz8867) | [arXiv](https://arxiv.org/abs/1906.05398)
@@ -318,9 +301,11 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   Brenna Norton-Baker, Mackenzie C. R. Denton, Natasha P. Murphy, et al.  
   *Scientific Reports*, **2024**. [Paper](https://doi.org/10.1038/s41598-024-64938-0)
 
+  <!-- Image hidden for a compact reading list: OT-2 liquid-handling workflow.
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11196671/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3224/11196671/6e9bf4b76242/41598_2024_64938_Fig1_HTML.jpg" alt="Enabling high-throughput enzyme discovery and engineering with a low-cost, robot-assisted pipeline — Figure 1" width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11196671/">Norton-Baker et al., Figure 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
+  -->
 
 - **Self-driving laboratories to autonomously navigate the protein fitness landscape**  
   Jacob T. Rapp, Bennett J. Bremer, and Philip A. Romero.  
@@ -367,17 +352,21 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   Suhasa B. Kodandaramaiah, Francisco J. Flores, Gregory L. Holst, et al.  
   *eLife*, **2018**. [Paper](https://doi.org/10.7554/eLife.24656)
 
+  <!-- Image hidden for a compact reading list: Dedicated electrode micromanipulators with linear actuators; called robotic arms in the paper.
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5812718/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b574/5812718/9a6d10915467/elife-24656-fig2.jpg" alt="Multi-neuron intracellular recording in vivo via interacting autopatching robots — Figure 2." width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5812718/">Kodandaramaiah et al., Figure 2</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
+  -->
 
 - **Automated whole-cell patch-clamp electrophysiology of neurons in vivo**  
   Suhasa B. Kodandaramaiah, Giovanni Talei Franzesi, Brian Y. Chow, et al.  
   *Nature Methods*, **2012**. [Paper](https://doi.org/10.1038/nmeth.1993)
 
+  <!-- Image hidden for a compact reading list: Dedicated patch-clamp linear actuator.
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3427788/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/df2a/3427788/469c38483521/nihms397908f1.jpg" alt="Automated whole-cell patch-clamp electrophysiology of neurons in vivo — Figure 1" width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3427788/">Kodandaramaiah et al., Figure 1</a> · Original image rights apply · Unmodified.</sub>
+  -->
 
 - **The automation of science**  
   Ross D. King, Jem Rowland, Stephen G. Oliver, et al.  
@@ -429,9 +418,11 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   Kynan T. Lawlor, Jessica M. Vanslambrouck, J. William Higgins, et al.  
   *Nature Materials*, **2021**. [Paper](https://doi.org/10.1038/s41563-020-00853-9)  
 
+  <!-- Image hidden for a compact reading list: Extrusion bioprinter with XYZ positioning.
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7855371/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4d90/7855371/9ed6e5a01fab/nihms-1634620-f0001.jpg" alt="Cellular extrusion bioprinting improves kidney organoid reproducibility and conformation — Figure 1." width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7855371/">Lawlor et al., Figure 1</a> · Original image rights apply · Unmodified.</sub>
+  -->
   *Note: Published online in 2020; assigned to the 2021 journal volume.*
 
 - **Robotic fluidic coupling and interrogation of multiple vascularized organ chips**  
@@ -446,9 +437,11 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   Stefan M. Czerniecki, Nelly M. Cruz, Jennifer L. Harder, et al.  
   *Cell Stem Cell*, **2018**. [Paper](https://doi.org/10.1016/j.stem.2018.04.022)
 
+  <!-- Image hidden for a compact reading list: Liquid-handling and automated imaging workflow.
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5984728/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aed/5984728/07cdd26eae86/nihms969084f1.jpg" alt="High-Throughput Screening Enhances Kidney Organoid Differentiation from Human Pluripotent Stem Cells and Enables Automated Multidimensional Phenotyping — Figure 1" width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5984728/">Czerniecki et al., Figure 1</a> · Original image rights apply · Unmodified.</sub>
+  -->
 
 - **Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases**  
   Kevin Williams, Elizabeth Bilsland, Andrew Sparkes, et al.  
@@ -480,4 +473,4 @@ When a paper is formally published, update the existing entry with its final tit
 
 ### Images
 
-Each entry includes an externally hosted image linked to its source. Robot photographs and platform figures are preferred; some entries currently use workflow diagrams or graphical abstracts for review. Image credits and licenses appear below each image; third-party images retain their original licenses. Background images from related publications are explicitly identified. External image URLs may change; the source links and credits help locate replacements. When adding an image, include descriptive alt text, a source link, attribution, and the applicable reuse license.
+Images are externally hosted and linked to their sources. Images emphasizing robotic arms, especially mobile robots, are preferred. Selected dedicated automation workflows have their image and credit blocks preserved in HTML comments to keep the rendered list compact. Robot photographs and platform figures are preferred; some entries currently use workflow diagrams or graphical abstracts for review. Image credits and licenses appear below each image; third-party images retain their original licenses. Background images from related publications are explicitly identified. External image URLs may change; the source links and credits help locate replacements. When adding an image, include descriptive alt text, a source link, attribution, and the applicable reuse license.
