@@ -54,9 +54,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   Tao Song, Man Luo, Xiaolong Zhang, et al.  
   *Journal of the American Chemical Society*, **2025**. [Paper](https://doi.org/10.1021/jacs.4c17738)
 
-  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9674120/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5b66/9674120/ca8e5a80201a/nwac190fig3.jpg" alt="A Multiagent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research On Demand — Related AI-Chemist platform: Zhu et al. (2022), Figure 3; background image, not a figure from this paper" width="520"></a>
-
-  <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9674120/">Related AI-Chemist platform: Zhu et al. (2022), Figure 3; background image, not a figure from this paper</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
+  <!-- Image pending: use a verified figure from Song et al. (2025), DOI 10.1021/jacs.4c17738. The previous Zhu et al. (2022) background image was removed because it is not from this paper. -->
 
 - **ORGANA: A robotic assistant for automated chemistry experimentation and characterization**  
   Kourosh Darvish, Marta Skreta, Yuchi Zhao, et al.  
