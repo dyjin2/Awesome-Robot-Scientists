@@ -66,6 +66,8 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   Simone Pilon, Elia Savino, Oliver M. Bayley, et al.  
   *Nature Synthesis*, **2026**. [Paper](https://doi.org/10.1038/s44160-026-01053-0)
 
+  Platform follow-up: [Automated self-optimization, intensification, and scale-up of photocatalysis in flow (2024)](#robochem-2024) — RoboChem-Flex: a lower-cost, modular successor to RoboChem.
+
   <a href="https://www.nature.com/articles/s44160-026-01053-0"><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44160-026-01053-0/MediaObjects/44160_2026_1053_Fig1_HTML.png" alt="A flexible and affordable self-driving laboratory for automated reaction optimization — Fig. 1: RoboChem-Flex: a low-cost SDL for closed-loop or human-in-the-loop, multi-objective optimization in synthetic organic chemistry." width="520"></a>
 
   <sub>Image: <a href="https://www.nature.com/articles/s44160-026-01053-0">Pilon et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
@@ -93,6 +95,8 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   Kourosh Darvish, Marta Skreta, Yuchi Zhao, et al.  
   *Matter*, **2025**. [Paper](https://doi.org/10.1016/j.matt.2024.10.015) | [arXiv](https://arxiv.org/abs/2401.06949)  
 
+  Platform follow-up: [Large language models for chemistry robotics (2023)](#clairify-2023) — Extends the CLAIRify robotic chemistry platform with interactive experiment planning and execution.
+
   <a href="https://ac-rad.github.io/organa/"><img src="https://ac-rad.github.io/organa/static/images/organa_overview.jpeg" alt="ORGANA: A robotic assistant for automated chemistry experimentation and characterization — ORGANA architecture" width="520"></a>
 
   <sub>Image: <a href="https://ac-rad.github.io/organa/">Darvish et al., ORGANA architecture</a> · Original image rights apply · Unmodified.</sub>
@@ -116,7 +120,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
 
   <sub>Image: <a href="https://www.nature.com/articles/s42256-024-00832-8">M. Bran et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
-- [ ] **Automated self-optimization, intensification, and scale-up of photocatalysis in flow**  
+- [ ] <a id="robochem-2024"></a>**Automated self-optimization, intensification, and scale-up of photocatalysis in flow**  
   `Automation Station`  
   Aidan Slattery, Zhenghui Wen, Pauline Tenblad, et al.  
   *Science*, **2024**. [Paper](https://doi.org/10.1126/science.adj1817)
@@ -129,6 +133,8 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   `Mobile Robot` · `Automation Station`  
   Tianwei Dai, Sriram Vijayakrishnan, Filip T. Szczypiński, et al.  
   *Nature*, **2024**. [Paper](https://doi.org/10.1038/s41586-024-08173-7)
+
+  Platform follow-up: [A mobile robotic chemist (2020)](#mobile-chemist-2020) — Extends the mobile-robot platform to cooperative synthesis and analysis.
 
   <a href="https://www.nature.com/articles/s41586-024-08173-7/figures/5"><img src="https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41586-024-08173-7/MediaObjects/41586_2024_8173_Fig5_ESM.jpg" alt="Liverpool mobile robot gripper handling an NMR sample rack" width="520"></a>
 
@@ -152,7 +158,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
 
   <sub>Image: <a href="https://jensenlab.mit.edu/toward-autonomous-molecular-discovery/">Jensen Research Group, MIT, robotic platform photograph</a> · Original image rights apply · Unmodified.</sub>
 
-- [ ] **Large language models for chemistry robotics**  
+- [ ] <a id="clairify-2023"></a>**Large language models for chemistry robotics**  
   `Stationary arm`  
   Naruki Yoshikawa, Marta Skreta, Kourosh Darvish, et al.  
   *Autonomous Robots*, **2023**. [Paper](https://doi.org/10.1007/s10514-023-10136-2)
@@ -175,6 +181,8 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   Anirudh M. K. Nambiar, Christopher P. Breen, Travis Hart, et al.  
   *ACS Central Science*, **2022**. [Paper](https://doi.org/10.1021/acscentsci.2c00207)
 
+  Platform follow-up: [A robotic platform for flow synthesis of organic compounds informed by AI planning (2019)](#robotic-flow-2019) — Upgrades the reconfigurable flow platform with a gantry robot and closed-loop optimization.
+
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9228554/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/31b7/9228554/9a6b7ffe71a3/oc2c00207_0001.jpg" alt="Bayesian Optimization of Computer-Proposed Multistep Synthetic Routes on an Automated Robotic Flow Platform — Figure 1" width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9228554/">Nambiar et al., Figure 1</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
@@ -188,7 +196,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7921605/">Shiri et al., Figure 1</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
 
-- [ ] **A robotic platform for flow synthesis of organic compounds informed by AI planning**  
+- [ ] <a id="robotic-flow-2019"></a>**A robotic platform for flow synthesis of organic compounds informed by AI planning**  
   `Stationary arm` · `Automation Station`  
   Connor W. Coley, Dale A. Thomas III, Justin A. M. Lummiss, et al.  
   *Science*, **2019**. [Paper](https://doi.org/10.1126/science.aax1566)
@@ -207,6 +215,8 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   `Mobile Robot` · `Stationary arm` · `Automation Station`  
   Tongyu Shi, Yutang Li, Zhanlong Wang, et al.  
   *Matter*, **2026**. [Paper](https://doi.org/10.1016/j.matt.2025.102577)
+
+  Platform follow-up: [A robotic platform for the synthesis of colloidal nanocrystals (2023)](#colloidal-nanocrystals-2023) — Second-generation nanomaterials platform with multi-agent experimental control.
 
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S2590238525006204"><img src="https://ars.els-cdn.com/content/image/1-s2.0-S2590238525006204-fx1.jpg" alt="Knowledge-driven autonomous materials research via collaborative multi-agent and robotic system — Graphical abstract" width="520"></a>
 
@@ -235,6 +245,8 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   Qing Zhu, Yan Huang, Donglai Zhou, et al.  
   *Nature Synthesis*, **2024**. [Paper](https://doi.org/10.1038/s44160-023-00424-1)  
 
+  Platform follow-up: [An all-round AI-Chemist with a scientific mind (2022)](#all-round-ai-chemist-2022) — Applies the AI-Chemist platform to catalyst synthesis from Martian meteorites.
+
   <a href="https://www.nature.com/articles/s44160-023-00424-1"><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44160-023-00424-1/MediaObjects/44160_2023_424_Fig1_HTML.png" alt="Automated synthesis of oxygen-producing catalysts from Martian meteorites by a robotic AI chemist — Fig. 1: Workflow of an all-encompassing system for the on-site design and production of an OER electrocatalyst on Mars by an AI chemist consisting of a mobile robot, a computational ‘brain’, a cloud server and 14 task-specific workstations." width="520"></a>
 
   <sub>Image: <a href="https://www.nature.com/articles/s44160-023-00424-1">Zhu et al., Fig. 1</a> · Original image rights apply · Unmodified.</sub>
@@ -244,6 +256,8 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   `Stationary arm` · `Automation Station`  
   Kelsey L. Snapp, Benjamin Verdier, Aldair E. Gongora, et al.  
   *Nature Communications*, **2024**. [Paper](https://doi.org/10.1038/s41467-024-48534-4)
+
+  Platform follow-up: [A Bayesian experimental autonomous researcher for mechanical design (2020)](#bear-2020) — Uses the BEAR printing-and-testing platform for energy-absorbing structure discovery.
 
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11109101/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7427/11109101/8e608bf04809/41467_2024_48534_Fig1_HTML.jpg" alt="Superlative mechanical energy absorbing efficiency discovered through self-driving lab-human partnership — Fig. 1" width="520"></a>
 
@@ -293,11 +307,13 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   Benjamin P. MacLeod, Fraser G. L. Parlane, Connor C. Rupnow, et al.  
   *Nature Communications*, **2022**. [Paper](https://doi.org/10.1038/s41467-022-28580-6)
 
+  Platform follow-up: [Self-driving laboratory for accelerated discovery of thin-film materials (2020)](#ada-2020) — Upgrades Ada with a second arm, additional characterization and multi-objective optimization.
+
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8863835/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/149c/8863835/6689adb324ab/41467_2022_28580_Fig2_HTML.jpg" alt="A self-driving laboratory advances the Pareto front for material properties — Fig. 2" width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8863835/">MacLeod et al., Fig. 2</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
-- [ ] **A Bayesian experimental autonomous researcher for mechanical design**  
+- [ ] <a id="bear-2020"></a>**A Bayesian experimental autonomous researcher for mechanical design**  
   `Stationary arm` · `Automation Station`  
   Aldair E. Gongora, Bowen Xu, Wyatt Perry, et al.  
   *Science Advances*, **2020**. [Paper](https://doi.org/10.1126/sciadv.aaz1708)
@@ -315,7 +331,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
 
   <sub>Image: <a href="https://www.nature.com/articles/s41586-020-2442-2">Burger et al., Fig. 1</a> · Original image rights apply · Unmodified.</sub>
 
-- [ ] **Self-driving laboratory for accelerated discovery of thin-film materials**  
+- [ ] <a id="ada-2020"></a>**Self-driving laboratory for accelerated discovery of thin-film materials**  
   `Stationary arm` · `Automation Station`  
   Benjamin P. MacLeod, Fraser G. L. Parlane, Thomas D. Morrissey, et al.  
   *Science Advances*, **2020**. [Paper](https://doi.org/10.1126/sciadv.aaz8867) | [arXiv](https://arxiv.org/abs/1906.05398)
@@ -406,6 +422,8 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   Anthony Coutant, Katherine Roper, Daniel Trejo-Banos, et al.  
   *Proceedings of the National Academy of Sciences*, **2019**. [Paper](https://doi.org/10.1073/pnas.1900548116)
 
+  Platform follow-up: [Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases (2015)](#eve-2015) — Uses the Eve laboratory platform for yeast systems-biology experiments.
+
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6731661/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b534/6731661/9f4dec92d33a/pnas.1900548116fig01.jpg" alt="Closed-loop cycles of experiment design, execution, and learning accelerate systems biology model development in yeast — Fig. 1." width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6731661/">Coutant et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
@@ -424,13 +442,15 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   Suhasa B. Kodandaramaiah, Francisco J. Flores, Gregory L. Holst, et al.  
   *eLife*, **2018**. [Paper](https://doi.org/10.7554/eLife.24656)
 
+  Platform follow-up: [Automated whole-cell patch-clamp electrophysiology of neurons in vivo (2012)](#autopatcher-2012) — Extends the single-pipette autopatcher to coordinated multi-neuron recordings.
+
   <!-- Image hidden for a compact reading list: Dedicated electrode micromanipulators with linear actuators; called robotic arms in the paper.
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5812718/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b574/5812718/9a6d10915467/elife-24656-fig2.jpg" alt="Multi-neuron intracellular recording in vivo via interacting autopatching robots — Figure 2." width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5812718/">Kodandaramaiah et al., Figure 2</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
   -->
 
-- [ ] **Automated whole-cell patch-clamp electrophysiology of neurons in vivo**  
+- [ ] <a id="autopatcher-2012"></a>**Automated whole-cell patch-clamp electrophysiology of neurons in vivo**  
   `Automation Station`  
   Suhasa B. Kodandaramaiah, Giovanni Talei Franzesi, Brian Y. Chow, et al.  
   *Nature Methods*, **2012**. [Paper](https://doi.org/10.1038/nmeth.1993)
@@ -535,7 +555,7 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5984728/">Czerniecki et al., Figure 1</a> · Original image rights apply · Unmodified.</sub>
   -->
 
-- [ ] **Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases**  
+- [ ] <a id="eve-2015"></a>**Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases**  
   `Stationary arm` · `Automation Station`  
   Kevin Williams, Elizabeth Bilsland, Andrew Sparkes, et al.  
   *Journal of the Royal Society Interface*, **2015**. [Paper](https://doi.org/10.1098/rsif.2014.1289)
@@ -578,7 +598,7 @@ Leave new entries unchecked; only the repository owner should mark personal veri
   *arXiv preprint*, **YYYY**. [arXiv](https://arxiv.org/abs/ID)
 ```
 
-For work that extends or applies an earlier robotic platform, add `Platform follow-up: [Earlier paper (year)](#entry-anchor).` after the publication links.
+For work that reuses or upgrades an earlier experimental platform, robot or equipment setup, add `Platform follow-up: [Earlier paper (year)](#entry-anchor) — brief description.` after the publication links. Shared authorship or use of the same commercial robot model alone does not establish a platform follow-up.
 
 When a paper is formally published, update the existing entry with its final title, venue, year, and DOI. Link substantive corrections alongside the paper.
 
