@@ -8,7 +8,7 @@ The focus is on physical robots doing science, from robotic assistants and autom
 
 ## Focus: Mobile Robot
 
-**8 works: 7 papers + 1 technical report.** Jump to the full entries below. This index highlights systems with a mobile base used for experimental manipulation.
+This index highlights systems with a mobile base used for experimental manipulation.
 
 | Year | Work | Domain | Mobile robot role |
 | --- | --- | --- | --- |
@@ -23,7 +23,7 @@ The focus is on physical robots doing science, from robotic assistants and autom
 
 ## Contents
 
-- [Mobile Robot](#focus-mobile-robot)
+- [Focus: Mobile Robot](#focus-mobile-robot)
 - [Chemistry & Materials Science](#chemistry--materials-science)
 - [Life Sciences](#life-sciences)
 - [Physics & Optics](#physics--optics)
@@ -31,23 +31,21 @@ The focus is on physical robots doing science, from robotic assistants and autom
 
 ## Scope
 
-**Include:** primary research demonstrated on real hardware, with a physical robot performing experimental operations such as sample preparation, manipulation, synthesis, assembly, culturing, or measurement. Mobile robots, fixed robotic arms, liquid-handling robots, and custom robotic manipulation platforms all count.
+**Include:** primary research demonstrated on real hardware, with a physical robot performing experimental operations such as sample preparation, manipulation, synthesis, assembly, culturing, or measurement. Mobile robots, fixed robotic arms, liquid-handling robots, and custom robotic manipulation platforms all count. Robot-assisted and fully autonomous systems are both welcome.
 
 **Exclude:** software-only AI scientists, simulation-only demonstrations, purely computational discovery, reviews and perspectives, and automated instruments without a demonstrated robotic handling or manipulation component. General-purpose robotics papers are outside the scope unless they demonstrate a scientific experimental application. Robots used only for clinical diagnosis, treatment, rehabilitation, or surgery are outside this laboratory-research scope.
 
-Robot-assisted and fully autonomous systems are both welcome. **Inclusion does not imply that a system autonomously performs the entire scientific process**, nor does it endorse every scientific claim in the paper. Cross-domain work is listed once, under its main experimental application. Selected official technical reports of demonstrated robotic laboratory systems are also included and explicitly distinguished from research papers.
-
 ## Reading the list
 
-**Personal verification:** each entry has a checkbox recording whether repository owner **dyjin2** has personally verified that work. Unchecked means not yet personally verified; checked means personally verified. These marks are separate from inclusion in this curated list. To update a mark, edit this README, change `- [ ]` to `- [x]` for that entry, and commit the change.
+**Personal verification:** each entry has a checkbox recording whether a human has thoroughly verified that work. 
 
-Papers are ordered by publication year, oldest first, then by title within each year. Years follow the journal's formal citation; an earlier online-publication year is noted where relevant. Author lists longer than four names are abbreviated to the first three authors and *et al.*; follow the paper link for the full list.
+Papers are ordered by publication year, oldest first. Years follow the journal's formal citation; an earlier online-publication year is noted where relevant.
 
-A journal or conference name indicates the published version. An accompanying arXiv link is an additional reading copy, not a separate entry. Preprint-only papers should be explicitly labelled **arXiv preprint** (or their other preprint server), rather than presented as peer-reviewed publications.
+A journal or conference name indicates the published version.
 
 ### Hardware tags
 
-Tags describe the demonstrated hardware, independently of the scientific domain or level of autonomy.
+Tags describe the demonstrated hardware.
 
 - `Mobile Robot`: a robot with a mobile base used within the laboratory, for manipulation or transport.
 - `Stationary arm`: an articulated or SCARA robotic arm operating in a fixed workcell, including arms mounted on a fixed linear track.
@@ -86,7 +84,7 @@ Chemical synthesis, reaction discovery and optimization, and the discovery, prep
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148087/">Gongora et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
-- [ ] <a id="mobile-chemist-2020"></a>**A mobile robotic chemist**  
+- [x] <a id="mobile-chemist-2020"></a>**A mobile robotic chemist**  
   `Mobile Robot` · `Automation Station`  
   Benjamin Burger, Phillip M. Maffettone, Vladimir V. Gusev, et al.  
   *Nature*, **2020**. [Paper](https://doi.org/10.1038/s41586-020-2442-2)
@@ -319,7 +317,7 @@ Chemical synthesis, reaction discovery and optimization, and the discovery, prep
 
   <sub>Image: <a href="https://www.nature.com/articles/s44160-026-01053-0">Pilon et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
-- [ ] <a id="process-chemist-2026"></a>**A mobile robotic process chemist**  
+- [x] <a id="process-chemist-2026"></a>**A mobile robotic process chemist**  
   `Mobile Robot` · `Automation Station`  
   Emma J. Brass, Satheeshkumar Veeramani, Zhengxue Zhou, et al.  
   *Digital Discovery*, **2026**. [Paper](https://doi.org/10.1039/D5DD00563A)
@@ -539,7 +537,7 @@ Biology and biomedical laboratory research, including synthetic biology, protein
   Yves Delley, John Coller, Zachary Cutts, et al.  
   *arXiv preprint*, **2026**. [arXiv](https://arxiv.org/abs/2610.32755)
 
-- [ ] <a id="x-automate-2026"></a>**X-Automate brings physical and agentic AI to the lab**  
+- [x] <a id="x-automate-2026"></a>**X-Automate brings physical and agentic AI to the lab**  
   `Mobile Robot` · `Stationary arm` · `Automation Station`  
   Xaira Therapeutics.  
   *Official technical report (not a peer-reviewed paper)*, **2026** (October 23). [Report and demonstrations](https://www.xaira.com/news/x-automate-brings-physical-and-agentic-ai-to-labs)
@@ -578,16 +576,12 @@ Use this format for a published paper:
   *Journal or Conference*, **YYYY**. [Paper](https://doi.org/DOI) | [arXiv](https://arxiv.org/abs/ID)
 ```
 
-Leave new entries unchecked; only the repository owner should mark personal verification as complete. Use only the applicable hardware tag(s). Add selected works tagged `Mobile Robot` to the top index and provide a stable entry anchor. Omit the arXiv link when unavailable. For a preprint-only paper, replace the last line with:
+For a preprint-only paper, replace the last line with:
 
 ```markdown
   *arXiv preprint*, **YYYY**. [arXiv](https://arxiv.org/abs/ID)
 ```
 
-For work that reuses or upgrades an earlier experimental platform, robot or equipment setup, add `Platform follow-up: [Earlier paper (year)](#entry-anchor) — brief description.` after the publication links. Shared authorship or use of the same commercial robot model alone does not establish a platform follow-up.
+For work that reuses or upgrades an earlier experimental platform, robot or equipment setup, add `Platform follow-up: [Earlier paper (year)](#entry-anchor) — brief description.` after the publication links. 
 
 When a paper is formally published, update the existing entry with its final title, venue, year, and DOI. Link substantive corrections alongside the paper.
-
-### Images
-
-Images are externally hosted and linked to their sources. Images emphasizing robotic arms, especially mobile robots, are preferred. Selected dedicated automation workflows have their image and credit blocks preserved in HTML comments to keep the rendered list compact. Robot photographs and platform figures are preferred; some entries currently use workflow diagrams or graphical abstracts for review. Image credits and licenses appear below each image; third-party images retain their original licenses. Background images from related publications are explicitly identified. External image URLs may change; the source links and credits help locate replacements. When adding an image, include descriptive alt text, a source link, attribution, and the applicable reuse license.
