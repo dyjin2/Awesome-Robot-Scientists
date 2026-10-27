@@ -4,11 +4,11 @@ A curated reading list of **robot scientists and robotic laboratories that perfo
 
 The focus is on physical robots doing science, from robotic assistants and automated experimental platforms to closed-loop, autonomous discovery systems.
 
-**50 papers + 1 technical report** | **Last curated: October 27, 2026** | A selected starting list, not an exhaustive bibliography.
+**50 papers + 1 technical report** | **Last curated: October 27, 2026**
 
-## Mobile Robot index
+## Focus: Mobile Robot
 
-**10 works: 9 papers + 1 technical report.** Jump to the full entries below. This index highlights systems with a mobile base used for experimental manipulation or sample transport; a fixed linear track alone does not qualify.
+**10 works: 9 papers + 1 technical report.** Jump to the full entries below. This index highlights systems with a mobile base used for experimental manipulation.
 
 | Year | Work | Domain | Mobile robot role |
 | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ The focus is on physical robots doing science, from robotic assistants and autom
 
 ## Contents
 
-- [Mobile Robot index](#mobile-robot-index)
+- [Mobile Robot](#mobile-robot)
 - [Chemistry](#chemistry)
 - [Materials Science](#materials-science)
 - [Biology](#biology)
@@ -51,13 +51,11 @@ A journal or conference name indicates the published version. An accompanying ar
 
 ### Hardware tags
 
-Tags describe the demonstrated hardware, independently of the scientific domain or level of autonomy. Hybrid platforms can have multiple tags; a mobile arm is not also tagged as stationary unless a separate fixed arm is used.
+Tags describe the demonstrated hardware, independently of the scientific domain or level of autonomy.
 
 - `Mobile Robot`: a robot with a mobile base used within the laboratory, for manipulation or transport.
 - `Stationary arm`: an articulated or SCARA robotic arm operating in a fixed workcell, including arms mounted on a fixed linear track.
-- `automation station`: a dedicated automated experimental or handling platform, such as a liquid handler, Cartesian gantry, bioprinter, or robotic patch-clamp system. Ordinary analytical instruments alone do not earn this tag.
-
-Tags identify documented components, rather than providing an exhaustive inventory of every instrument in a laboratory.
+- `automation station`: a dedicated automated experimental or handling platform, such as a liquid handler, Cartesian gantry, bioprinter, or robotic patch-clamp system.
 
 ## Chemistry
 
