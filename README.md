@@ -8,11 +8,10 @@ The focus is on physical robots doing science, from robotic assistants and autom
 
 ## Focus: Mobile Robot
 
-**10 works: 9 papers + 1 technical report.** Jump to the full entries below. This index highlights systems with a mobile base used for experimental manipulation.
+**9 works: 8 papers + 1 technical report.** Jump to the full entries below. This index highlights systems with a mobile base used for experimental manipulation.
 
 | Year | Work | Domain | Mobile robot role |
 | --- | --- | --- | --- |
-| 2026 | [A mobile robotic process chemist](#process-chemist-2026) | Chemistry | Experimental manipulation and sample transfer |
 | 2026 | [Knowledge-driven autonomous materials research via collaborative multi-agent and robotic system](#mars-2026) | Materials Science | Reagent and consumable transport; experimental operations |
 | 2026 | [X-Automate brings physical and agentic AI to the lab](#x-automate-2026) | Biomedical Research | Protein sample plate transport (Wall-E); technical report |
 | 2025 | [A Multiagent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research On Demand](#multiagent-chemist-2025) | Chemistry | Experimental manipulation across workstations |
@@ -25,7 +24,7 @@ The focus is on physical robots doing science, from robotic assistants and autom
 
 ## Contents
 
-- [Mobile Robot](#mobile-robot)
+- [Mobile Robot](#focus-mobile-robot)
 - [Chemistry](#chemistry)
 - [Materials Science](#materials-science)
 - [Biology](#biology)
@@ -55,7 +54,7 @@ Tags describe the demonstrated hardware, independently of the scientific domain 
 
 - `Mobile Robot`: a robot with a mobile base used within the laboratory, for manipulation or transport.
 - `Stationary arm`: an articulated or SCARA robotic arm operating in a fixed workcell, including arms mounted on a fixed linear track.
-- `automation station`: a dedicated automated experimental or handling platform, such as a liquid handler, Cartesian gantry, bioprinter, or robotic patch-clamp system.
+- `Automation Station`: a dedicated automated experimental or handling platform, such as a liquid handler, Cartesian gantry, bioprinter, or robotic patch-clamp system.
 
 ## Chemistry
 
@@ -64,7 +63,7 @@ Tags describe the demonstrated hardware, independently of the scientific domain 
 Reaction discovery, synthesis methods, reaction optimization, and general chemical experimentation platforms.
 
 - [ ] **A flexible and affordable self-driving laboratory for automated reaction optimization**  
-  `automation station`  
+  `Automation Station`  
   Simone Pilon, Elia Savino, Oliver M. Bayley, et al.  
   *Nature Synthesis*, **2026**. [Paper](https://doi.org/10.1038/s44160-026-01053-0)
 
@@ -73,7 +72,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://www.nature.com/articles/s44160-026-01053-0">Pilon et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] <a id="process-chemist-2026"></a>**A mobile robotic process chemist**  
-  `Mobile Robot` · `automation station`  
+  `Mobile Robot` · `Automation Station`  
   Emma J. Brass, Satheeshkumar Veeramani, Zhengxue Zhou, et al.  
   *Digital Discovery*, **2026**. [Paper](https://doi.org/10.1039/D5DD00563A)
 
@@ -82,7 +81,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://www.sciencedirect.com/org/science/article/pii/S2635098X2600046X">Brass et al., Fig. 2</a> · <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a> · Unmodified.</sub>
 
 - [ ] <a id="multiagent-chemist-2025"></a>**A Multiagent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research On Demand**  
-  `Mobile Robot` · `Stationary arm` · `automation station`  
+  `Mobile Robot` · `Stationary arm` · `Automation Station`  
   Tao Song, Man Luo, Xiaolong Zhang, et al.  
   *Journal of the American Chemical Society*, **2025**. [Paper](https://doi.org/10.1021/jacs.4c17738)
 
@@ -99,7 +98,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   *Note: Published online in 2024; assigned to the 2025 journal volume.*
 
 - [ ] **An automatic end-to-end chemical synthesis development platform powered by large language models**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Yixiang Ruan, Chenyin Lu, Ning Xu, et al.  
   *Nature Communications*, **2024**. [Paper](https://doi.org/10.1038/s41467-024-54457-x)
 
@@ -108,7 +107,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11585555/">Ruan et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
 
 - [ ] **Augmenting large language models with chemistry tools**  
-  `automation station`  
+  `Automation Station`  
   Andres M. Bran, Sam Cox, Oliver Schilter, et al.  
   *Nature Machine Intelligence*, **2024**. [Paper](https://doi.org/10.1038/s42256-024-00832-8)
 
@@ -117,7 +116,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://www.nature.com/articles/s42256-024-00832-8">M. Bran et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **Automated self-optimization, intensification, and scale-up of photocatalysis in flow**  
-  `automation station`  
+  `Automation Station`  
   Aidan Slattery, Zhenghui Wen, Pauline Tenblad, et al.  
   *Science*, **2024**. [Paper](https://doi.org/10.1126/science.adj1817)
 
@@ -126,7 +125,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://hims.uva.nl/content/news/2024/01/autonomous-synthesis-robot-uses-ai-to-speed-up-chemical-discovery.html">UvA/HIMS, RoboChem system overview</a> · Original image rights apply · Unmodified.</sub>
 
 - [ ] <a id="exploratory-chemistry-2024"></a>**Autonomous mobile robots for exploratory synthetic chemistry**  
-  `Mobile Robot` · `automation station`  
+  `Mobile Robot` · `Automation Station`  
   Tianwei Dai, Sriram Vijayakrishnan, Filip T. Szczypiński, et al.  
   *Nature*, **2024**. [Paper](https://doi.org/10.1038/s41586-024-08173-7)
 
@@ -135,7 +134,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://www.nature.com/articles/s41586-024-08173-7/figures/5">Dai et al. (2024), Extended Data Figure 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **Autonomous chemical research with large language models**  
-  `automation station`  
+  `Automation Station`  
   Daniil A. Boiko, Robert MacKnight, Ben Kline, and Gabe Gomes.  
   *Nature*, **2023**. [Paper](https://doi.org/10.1038/s41586-023-06792-0)
 
@@ -144,7 +143,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://www.nature.com/articles/s41586-023-06792-0">Boiko et al., Fig. 4</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **Autonomous, multiproperty-driven molecular discovery: From predictions to measurements and back**  
-  `automation station`  
+  `Automation Station`  
   Brent A. Koscher, Richard B. Canty, Matthew A. McDonald, et al.  
   *Science*, **2023**. [Paper](https://doi.org/10.1126/science.adi1407)
 
@@ -162,7 +161,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://link.springer.com/article/10.1007/s10514-023-10136-2">Yoshikawa et al., Fig. 10</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] <a id="all-round-ai-chemist-2022"></a>**An all-round AI-Chemist with a scientific mind**  
-  `Mobile Robot` · `automation station`  
+  `Mobile Robot` · `Automation Station`  
   Qing Zhu, Fei Zhang, Yan Huang, et al.  
   *National Science Review*, **2022**. [Paper](https://doi.org/10.1093/nsr/nwac190)
 
@@ -171,7 +170,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9674120/">Zhu et al., Figure 3</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **Bayesian Optimization of Computer-Proposed Multistep Synthetic Routes on an Automated Robotic Flow Platform**  
-  `automation station`  
+  `Automation Station`  
   Anirudh M. K. Nambiar, Christopher P. Breen, Travis Hart, et al.  
   *ACS Central Science*, **2022**. [Paper](https://doi.org/10.1021/acscentsci.2c00207)
 
@@ -180,7 +179,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9228554/">Nambiar et al., Figure 1</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
 
 - [ ] **Automated solubility screening platform using computer vision**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Parisa Shiri, Veronica Lai, Tara Zepel, et al.  
   *iScience*, **2021**. [Paper](https://doi.org/10.1016/j.isci.2021.102176)
 
@@ -189,7 +188,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7921605/">Shiri et al., Figure 1</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
 
 - [ ] **A robotic platform for flow synthesis of organic compounds informed by AI planning**  
-  `automation station`  
+  `Automation Station`  
   Connor W. Coley, Dale A. Thomas III, Justin A. M. Lummiss, et al.  
   *Science*, **2019**. [Paper](https://doi.org/10.1126/science.aax1566)
 
@@ -204,7 +203,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
 Discovery, synthesis, assembly, and testing of functional materials, including catalysts, electrolytes, thin films, nanocrystals, and mechanical structures.
 
 - [ ] <a id="mars-2026"></a>**Knowledge-driven autonomous materials research via collaborative multi-agent and robotic system**  
-  `Mobile Robot` · `Stationary arm` · `automation station`  
+  `Mobile Robot` · `Stationary arm` · `Automation Station`  
   Tongyu Shi, Yutang Li, Zhanlong Wang, et al.  
   *Matter*, **2026**. [Paper](https://doi.org/10.1016/j.matt.2025.102577)
 
@@ -213,7 +212,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2590238525006204">Shi et al., Graphical abstract</a> · Original image rights apply · Unmodified.</sub>
 
 - [ ] **A chemical autonomous robotic platform for end-to-end synthesis of nanoparticles**  
-  `automation station`  
+  `Automation Station`  
   Fan Gao, Hongqiang Li, Zhilong Chen, et al.  
   *Nature Communications*, **2025**. [Paper](https://doi.org/10.1038/s41467-025-62994-2)
 
@@ -222,7 +221,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12354731/">Gao et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
 
 - [ ] **Autonomous multi-robot synthesis and optimization of metal halide perovskite nanocrystals**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Jinge Xu, Christopher H. J. Moran, Arup Ghorai, et al.  
   *Nature Communications*, **2025**. [Paper](https://doi.org/10.1038/s41467-025-63209-4)
 
@@ -231,7 +230,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://www.nature.com/articles/s41467-025-63209-4/figures/1">Xu et al. (2025), Figure 1</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
 
 - [ ] <a id="martian-catalysts-2024"></a>**Automated synthesis of oxygen-producing catalysts from Martian meteorites by a robotic AI chemist**  
-  `Mobile Robot` · `automation station`  
+  `Mobile Robot` · `Automation Station`  
   Qing Zhu, Yan Huang, Donglai Zhou, et al.  
   *Nature Synthesis*, **2024**. [Paper](https://doi.org/10.1038/s44160-023-00424-1)  
 
@@ -241,7 +240,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   *Note: Published online in 2023; assigned to the 2024 journal volume.*
 
 - [ ] **Superlative mechanical energy absorbing efficiency discovered through self-driving lab-human partnership**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Kelsey L. Snapp, Benjamin Verdier, Aldair E. Gongora, et al.  
   *Nature Communications*, **2024**. [Paper](https://doi.org/10.1038/s41467-024-48534-4)
 
@@ -250,7 +249,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11109101/">Snapp et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **A high-throughput workflow for the synthesis of CdSe nanocrystals using a sonochemical materials acceleration platform**  
-  `automation station`  
+  `Automation Station`  
   Maria Politi, Fabio Baum, Kiran Vaddi, et al.  
   *Digital Discovery*, **2023**. [Paper](https://doi.org/10.1039/D3DD00033H)
 
@@ -259,7 +258,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://www.sciencedirect.com/org/science/article/pii/S2635098X2300030X">Politi et al., Graphical abstract</a> · <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a> · Unmodified.</sub>
 
 - [ ] <a id="colloidal-nanocrystals-2023"></a>**A robotic platform for the synthesis of colloidal nanocrystals**  
-  `Mobile Robot` · `Stationary arm` · `automation station`  
+  `Mobile Robot` · `Stationary arm` · `Automation Station`  
   Haitao Zhao, Wei Chen, Hao Huang, et al.  
   *Nature Synthesis*, **2023**. [Paper](https://doi.org/10.1038/s44160-023-00250-5)
 
@@ -268,7 +267,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://www.nature.com/articles/s44160-023-00250-5">Zhao et al., Fig. 2</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **An autonomous laboratory for the accelerated synthesis of inorganic materials**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Nathan J. Szymanski, Bernardus Rendy, Yuxing Fei, et al.  
   *Nature*, **2023**. [Paper](https://doi.org/10.1038/s41586-023-06734-w) | [Author correction (2026)](https://doi.org/10.1038/s41586-025-09992-y)  
 
@@ -278,7 +277,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   *Note: The title above follows the 2026 author correction; the original title referred to "novel materials".*
 
 - [ ] <a id="chiral-films-2023"></a>**Inverse design of chiral functional films by a robotic AI-guided system**  
-  `Mobile Robot` · `automation station`  
+  `Mobile Robot` · `Automation Station`  
   Yifan Xie, Shuo Feng, Linxiao Deng, et al.  
   *Nature Communications*, **2023**. [Paper](https://doi.org/10.1038/s41467-023-41951-x)
 
@@ -287,7 +286,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10551020/">Xie et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **A self-driving laboratory advances the Pareto front for material properties**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Benjamin P. MacLeod, Fraser G. L. Parlane, Connor C. Rupnow, et al.  
   *Nature Communications*, **2022**. [Paper](https://doi.org/10.1038/s41467-022-28580-6)
 
@@ -296,7 +295,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8863835/">MacLeod et al., Fig. 2</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **A Bayesian experimental autonomous researcher for mechanical design**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Aldair E. Gongora, Bowen Xu, Wyatt Perry, et al.  
   *Science Advances*, **2020**. [Paper](https://doi.org/10.1126/sciadv.aaz1708)
 
@@ -305,7 +304,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148087/">Gongora et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] <a id="mobile-chemist-2020"></a>**A mobile robotic chemist**  
-  `Mobile Robot` · `automation station`  
+  `Mobile Robot` · `Automation Station`  
   Benjamin Burger, Phillip M. Maffettone, Vladimir V. Gusev, et al.  
   *Nature*, **2020**. [Paper](https://doi.org/10.1038/s41586-020-2442-2)
 
@@ -314,7 +313,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://www.nature.com/articles/s41586-020-2442-2">Burger et al., Fig. 1</a> · Original image rights apply · Unmodified.</sub>
 
 - [ ] **Self-driving laboratory for accelerated discovery of thin-film materials**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Benjamin P. MacLeod, Fraser G. L. Parlane, Thomas D. Morrissey, et al.  
   *Science Advances*, **2020**. [Paper](https://doi.org/10.1126/sciadv.aaz8867) | [arXiv](https://arxiv.org/abs/1906.05398)
 
@@ -323,7 +322,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7220369/">MacLeod et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> · Unmodified.</sub>
 
 - [ ] **Autonomous robotic searching and assembly of two-dimensional crystals to build van der Waals superlattices**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Satoru Masubuchi, Masataka Morimoto, Sei Morikawa, et al.  
   *Nature Communications*, **2018**. [Paper](https://doi.org/10.1038/s41467-018-03723-w)
 
@@ -338,7 +337,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
 Fundamental and synthetic biology, microbiology, protein engineering, biological sample preparation, and experimental neuroscience. General cell-culture platforms also belong here.
 
 - [ ] **Automated prototyping of genetic codes**  
-  `automation station`  
+  `Automation Station`  
   Felix Radford, Nayan Sapers, Hana M. Burgess, et al.  
   *Nature*, **2026**. [Paper](https://doi.org/10.1038/s41586-026-10949-y)
 
@@ -347,7 +346,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   <sub>Image: <a href="https://www.nature.com/articles/s41586-026-10949-y">Radford et al., Fig. 2</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
 
 - [ ] **ProteoAutoNet: high-throughput co-eluted protein analysis with robotics and machine learning**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Mengge Lyu, Pingping Hu, Guangmei Zhang, et al.  
   *Nature Communications*, **2026**. [Paper](https://doi.org/10.1038/s41467-026-68686-9)
 
@@ -356,12 +355,12 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12929803/">Lyu et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **Semantic Representation for Agentic Self-Play in Automated Laboratories**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Yves Delley, John Coller, Zachary Cutts, et al.  
   *arXiv preprint*, **2026**. [arXiv](https://arxiv.org/abs/2610.32755)
 
 - [ ] **Enabling high-throughput enzyme discovery and engineering with a low-cost, robot-assisted pipeline**  
-  `automation station`  
+  `Automation Station`  
   Brenna Norton-Baker, Mackenzie C. R. Denton, Natasha P. Murphy, et al.  
   *Scientific Reports*, **2024**. [Paper](https://doi.org/10.1038/s41598-024-64938-0)
 
@@ -372,7 +371,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   -->
 
 - [ ] **Self-driving laboratories to autonomously navigate the protein fitness landscape**  
-  `automation station`  
+  `Automation Station`  
   Jacob T. Rapp, Bennett J. Bremer, and Philip A. Romero.  
   *Nature Chemical Engineering*, **2024**. [Paper](https://doi.org/10.1038/s44286-023-00002-4)
 
@@ -381,7 +380,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10926838/">Rapp et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **BacterAI maps microbial metabolism without prior knowledge**  
-  `automation station`  
+  `Automation Station`  
   Adam C. Dama, Kevin S. Kim, Danielle M. Leyva, et al.  
   *Nature Microbiology*, **2023**. [Paper](https://doi.org/10.1038/s41564-023-01376-0)
 
@@ -400,7 +399,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   *Note: Published online in 2020; assigned to the 2021 journal volume.*
 
 - [ ] **Closed-loop cycles of experiment design, execution, and learning accelerate systems biology model development in yeast**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Anthony Coutant, Katherine Roper, Daniel Trejo-Banos, et al.  
   *Proceedings of the National Academy of Sciences*, **2019**. [Paper](https://doi.org/10.1073/pnas.1900548116)
 
@@ -409,7 +408,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6731661/">Coutant et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **Towards a fully automated algorithm driven platform for biosystems design**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Mohammad HamediRad, Ran Chao, Scott Weisberg, et al.  
   *Nature Communications*, **2019**. [Paper](https://doi.org/10.1038/s41467-019-13189-z)
 
@@ -418,7 +417,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6853954/">HamediRad et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **Multi-neuron intracellular recording in vivo via interacting autopatching robots**  
-  `automation station`  
+  `Automation Station`  
   Suhasa B. Kodandaramaiah, Francisco J. Flores, Gregory L. Holst, et al.  
   *eLife*, **2018**. [Paper](https://doi.org/10.7554/eLife.24656)
 
@@ -429,7 +428,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   -->
 
 - [ ] **Automated whole-cell patch-clamp electrophysiology of neurons in vivo**  
-  `automation station`  
+  `Automation Station`  
   Suhasa B. Kodandaramaiah, Giovanni Talei Franzesi, Brian Y. Chow, et al.  
   *Nature Methods*, **2012**. [Paper](https://doi.org/10.1038/nmeth.1993)
 
@@ -440,7 +439,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   -->
 
 - [ ] **The automation of science**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Ross D. King, Jem Rowland, Stephen G. Oliver, et al.  
   *Science*, **2009**. [Paper](https://doi.org/10.1126/science.1165620)
 
@@ -449,7 +448,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2813846/">Adam robot: Sparkes et al. (2010), Figure 2</a> · <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a> · Unmodified.</sub>
 
 - [ ] **Functional genomic hypothesis generation and experimentation by a robot scientist**  
-  `automation station`  
+  `Automation Station`  
   Ross D. King, Kenneth E. Whelan, Ffion M. Jones, et al.  
   *Nature*, **2004**. [Paper](https://doi.org/10.1038/nature02236)
 
@@ -464,7 +463,7 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
 Drug discovery and formulation, disease models, organoids, organ-on-chip experiments, and regenerative medicine. This category covers laboratory research; robots used only for clinical diagnosis, treatment, or surgery are excluded.
 
 - [ ] <a id="x-automate-2026"></a>**X-Automate brings physical and agentic AI to the lab**  
-  `Mobile Robot` · `Stationary arm` · `automation station`  
+  `Mobile Robot` · `Stationary arm` · `Automation Station`  
   Xaira Therapeutics.  
   *Official technical report (not a peer-reviewed paper)*, **2026** (October 23). [Report and demonstrations](https://www.xaira.com/news/x-automate-brings-physical-and-agentic-ai-to-labs)
 
@@ -475,7 +474,7 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   <sub>Image: <a href="https://www.xaira.com/news/x-automate-brings-physical-and-agentic-ai-to-labs">Xaira Therapeutics, Figure 2</a> · Original image rights apply · Unmodified.</sub>
 
 - [ ] **Efficient discovery of new medicine formulations using a semi-self-driven robotic formulator**  
-  `automation station`  
+  `Automation Station`  
   Helena Ros, Youssef Abdalla, Michael T. Cook, and David Shorthouse.  
   *Digital Discovery*, **2025**. [Paper](https://doi.org/10.1039/D5DD00171D)
 
@@ -484,7 +483,7 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13576497/">Ros et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> · Unmodified.</sub>
 
 - [ ] **An Automated Robotic Interface for Assays: Facilitating Machine Learning in Drug Discovery by the Automation of Physicochemical Property Assays**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Newton P. Wu, Wenyi Wang, Dhireshan Gadiagellan, et al.  
   *ACS Omega*, **2024**. [Paper](https://doi.org/10.1021/acsomega.4c02003)
 
@@ -502,7 +501,7 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9239686/#fig2s1">Kanda, Tsuzuki et al. (2022), Figure 2—figure supplement 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
 - [ ] **Cellular extrusion bioprinting improves kidney organoid reproducibility and conformation**  
-  `automation station`  
+  `Automation Station`  
   Kynan T. Lawlor, Jessica M. Vanslambrouck, J. William Higgins, et al.  
   *Nature Materials*, **2021**. [Paper](https://doi.org/10.1038/s41563-020-00853-9)  
 
@@ -514,7 +513,7 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   *Note: Published online in 2020; assigned to the 2021 journal volume.*
 
 - [ ] **Robotic fluidic coupling and interrogation of multiple vascularized organ chips**  
-  `automation station`  
+  `Automation Station`  
   Richard Novak, Miles Ingram, Susan Marquez, et al.  
   *Nature Biomedical Engineering*, **2020**. [Paper](https://doi.org/10.1038/s41551-019-0497-x)
 
@@ -523,7 +522,7 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8057865/">Novak et al., Figure 1</a> · Original image rights apply · Unmodified.</sub>
 
 - [ ] **High-Throughput Screening Enhances Kidney Organoid Differentiation from Human Pluripotent Stem Cells and Enables Automated Multidimensional Phenotyping**  
-  `automation station`  
+  `Automation Station`  
   Stefan M. Czerniecki, Nelly M. Cruz, Jennifer L. Harder, et al.  
   *Cell Stem Cell*, **2018**. [Paper](https://doi.org/10.1016/j.stem.2018.04.022)
 
@@ -534,7 +533,7 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   -->
 
 - [ ] **Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   Kevin Williams, Elizabeth Bilsland, Andrew Sparkes, et al.  
   *Journal of the Royal Society Interface*, **2015**. [Paper](https://doi.org/10.1098/rsif.2014.1289)
 
@@ -565,12 +564,12 @@ Use this format for a published paper:
 
 ```markdown
 - [ ] **Paper title**  
-  `Stationary arm` · `automation station`  
+  `Stationary arm` · `Automation Station`  
   First Author, Second Author, Third Author, et al.  
   *Journal or Conference*, **YYYY**. [Paper](https://doi.org/DOI) | [arXiv](https://arxiv.org/abs/ID)
 ```
 
-Leave new entries unchecked; only the repository owner should mark personal verification as complete. Use only the applicable hardware tag(s). Add works tagged `Mobile Robot` to the top index and provide a stable entry anchor. Omit the arXiv link when unavailable. For a preprint-only paper, replace the last line with:
+Leave new entries unchecked; only the repository owner should mark personal verification as complete. Use only the applicable hardware tag(s). Add selected works tagged `Mobile Robot` to the top index and provide a stable entry anchor. Omit the arXiv link when unavailable. For a preprint-only paper, replace the last line with:
 
 ```markdown
   *arXiv preprint*, **YYYY**. [arXiv](https://arxiv.org/abs/ID)
