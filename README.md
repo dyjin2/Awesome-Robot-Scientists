@@ -8,7 +8,7 @@ The focus is on physical robots doing science, from robotic assistants and autom
 
 ## Focus: Mobile Robot
 
-**9 works: 8 papers + 1 technical report.** Jump to the full entries below. This index highlights systems with a mobile base used for experimental manipulation.
+**8 works: 7 papers + 1 technical report.** Jump to the full entries below. This index highlights systems with a mobile base used for experimental manipulation.
 
 | Year | Work | Domain | Mobile robot role |
 | --- | --- | --- | --- |
@@ -18,7 +18,6 @@ The focus is on physical robots doing science, from robotic assistants and autom
 | 2024 | [Automated synthesis of oxygen-producing catalysts from Martian meteorites by a robotic AI chemist](#martian-catalysts-2024) | Materials Science | Sample handling across catalyst preparation and testing stations |
 | 2024 | [Autonomous mobile robots for exploratory synthetic chemistry](#exploratory-chemistry-2024) | Chemistry | Sample transfer between synthesis and analysis stations |
 | 2023 | [A robotic platform for the synthesis of colloidal nanocrystals](#colloidal-nanocrystals-2023) | Materials Science | Microplate transport between experimental modules |
-| 2023 | [Inverse design of chiral functional films by a robotic AI-guided system](#chiral-films-2023) | Materials Science | Sample handling across film preparation and testing stations |
 | 2022 | [An all-round AI-Chemist with a scientific mind](#all-round-ai-chemist-2022) | Chemistry | Experimental manipulation across workstations |
 | 2020 | [A mobile robotic chemist](#mobile-chemist-2020) | Materials Science | Experimental manipulation across photocatalyst workstations |
 
@@ -75,6 +74,8 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   `Mobile Robot` · `Automation Station`  
   Emma J. Brass, Satheeshkumar Veeramani, Zhengxue Zhou, et al.  
   *Digital Discovery*, **2026**. [Paper](https://doi.org/10.1039/D5DD00563A)
+
+  Platform follow-up: [A mobile robotic chemist (2020)](#mobile-chemist-2020).
 
   <a href="https://www.sciencedirect.com/org/science/article/pii/S2635098X2600046X"><img src="https://ars.els-cdn.com/content/image/1-s2.0-S2635098X2600046X-d5dd00563a-f2.gif" alt="A mobile robotic process chemist — Fig. 2" width="520"></a>
 
@@ -280,6 +281,8 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
   `Mobile Robot` · `Automation Station`  
   Yifan Xie, Shuo Feng, Linxiao Deng, et al.  
   *Nature Communications*, **2023**. [Paper](https://doi.org/10.1038/s41467-023-41951-x)
+
+  Platform follow-up: [An all-round AI-Chemist with a scientific mind (2022)](#all-round-ai-chemist-2022).
 
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10551020/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/754b/10551020/fadfea8b8f13/41467_2023_41951_Fig1_HTML.jpg" alt="Inverse design of chiral functional films by a robotic AI-guided system — Fig. 1" width="520"></a>
 
@@ -574,6 +577,8 @@ Leave new entries unchecked; only the repository owner should mark personal veri
 ```markdown
   *arXiv preprint*, **YYYY**. [arXiv](https://arxiv.org/abs/ID)
 ```
+
+For work that extends or applies an earlier robotic platform, add `Platform follow-up: [Earlier paper (year)](#entry-anchor).` after the publication links.
 
 When a paper is formally published, update the existing entry with its final title, venue, year, and DOI. Link substantive corrections alongside the paper.
 
