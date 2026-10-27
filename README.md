@@ -4,7 +4,7 @@ A curated reading list of **robot scientists and robotic laboratories that perfo
 
 The focus is on physical robots doing science, from robotic assistants and automated experimental platforms to closed-loop, autonomous discovery systems.
 
-**48 papers** | **Last curated: October 12, 2026** | A selected starting list, not an exhaustive bibliography.
+**50 papers + 1 technical report** | **Last curated: October 27, 2026** | A selected starting list, not an exhaustive bibliography.
 
 ## Contents
 
@@ -12,6 +12,7 @@ The focus is on physical robots doing science, from robotic assistants and autom
 - [Materials Science](#materials-science)
 - [Biology](#biology)
 - [Biomedical Research](#biomedical-research)
+- [Physics & Optics](#physics--optics)
 - [Contributing](#contributing)
 
 ## Scope
@@ -20,7 +21,7 @@ The focus is on physical robots doing science, from robotic assistants and autom
 
 **Exclude:** software-only AI scientists, simulation-only demonstrations, purely computational discovery, reviews and perspectives, and automated instruments without a demonstrated robotic handling or manipulation component. General-purpose robotics papers are outside the scope unless they demonstrate a scientific experimental application. Robots used only for clinical diagnosis, treatment, rehabilitation, or surgery are outside this laboratory-research scope.
 
-Robot-assisted and fully autonomous systems are both welcome. **Inclusion does not imply that a system autonomously performs the entire scientific process**, nor does it endorse every scientific claim in the paper. Cross-domain work is listed once, under its main experimental application.
+Robot-assisted and fully autonomous systems are both welcome. **Inclusion does not imply that a system autonomously performs the entire scientific process**, nor does it endorse every scientific claim in the paper. Cross-domain work is listed once, under its main experimental application. Selected official technical reports of demonstrated robotic laboratory systems are also included and explicitly distinguished from research papers.
 
 ## Reading the list
 
@@ -275,7 +276,7 @@ Discovery, synthesis, assembly, and testing of functional materials, including c
 
 ## Biology
 
-*12 papers.*
+*13 papers.*
 
 Fundamental and synthetic biology, microbiology, protein engineering, biological sample preparation, and experimental neuroscience. General cell-culture platforms also belong here.
 
@@ -294,6 +295,10 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12929803/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3b57/12929803/e9dcdc3b20ab/41467_2026_68686_Fig1_HTML.jpg" alt="ProteoAutoNet: high-throughput co-eluted protein analysis with robotics and machine learning — Fig. 1" width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12929803/">Lyu et al., Fig. 1</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
+
+- **Semantic Representation for Agentic Self-Play in Automated Laboratories**  
+  Yves Delley, John Coller, Zachary Cutts, et al.  
+  *arXiv preprint*, **2026**. [arXiv](https://arxiv.org/abs/2610.32755)
 
 - **Enabling high-throughput enzyme discovery and engineering with a low-cost, robot-assisted pipeline**  
   Brenna Norton-Baker, Mackenzie C. R. Denton, Natasha P. Murphy, et al.  
@@ -384,9 +389,19 @@ Fundamental and synthetic biology, microbiology, protein engineering, biological
 
 ## Biomedical Research
 
-*7 papers.*
+*7 papers + 1 technical report.*
 
 Drug discovery and formulation, disease models, organoids, organ-on-chip experiments, and regenerative medicine. This category covers laboratory research; robots used only for clinical diagnosis, treatment, or surgery are excluded.
+
+- **X-Automate brings physical and agentic AI to the lab**  
+  Xaira Therapeutics.  
+  *Official technical report (not a peer-reviewed paper)*, **2026** (October 23). [Report and demonstrations](https://www.xaira.com/news/x-automate-brings-physical-and-agentic-ai-to-labs)
+
+  Mobile robot Wall-E transports protein sample plates; the six-axis X-Bot arm loads and unloads an HPLC instrument.
+
+  <a href="https://www.xaira.com/news/x-automate-brings-physical-and-agentic-ai-to-labs"><img src="https://cdn.prod.website-files.com/6a7c170fadeb1150526cb3e3/6ad667f445d4d788058de0ab_image5.png" alt="X-Automate system architecture and camera views of the HPLC station and mobile robot, Figure 2" width="520"></a>
+
+  <sub>Image: <a href="https://www.xaira.com/news/x-automate-brings-physical-and-agentic-ai-to-labs">Xaira Therapeutics, Figure 2</a> · Original image rights apply · Unmodified.</sub>
 
 - **Efficient discovery of new medicine formulations using a semi-self-driven robotic formulator**  
   Helena Ros, Youssef Abdalla, Michael T. Cook, and David Shorthouse.  
@@ -448,6 +463,20 @@ Drug discovery and formulation, disease models, organoids, organ-on-chip experim
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4345494/"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/da1c/4345494/7572a859d5d6/rsif20141289-g2.jpg" alt="Cheaper faster drug development validated by the repositioning of drugs against neglected tropical diseases — Figure 2." width="520"></a>
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4345494/">Williams et al., Figure 2</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
+
+## Physics & Optics
+
+*1 paper.*
+
+Robotic assembly, alignment, operation, and maintenance of physical and optical experiments.
+
+- **A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems**  
+  Seou Choi, Sachin Vaidya, Caio Silva, et al.  
+  *arXiv preprint*, **2026**. [arXiv](https://arxiv.org/abs/2603.21496) | [Project coverage and demonstration](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)
+
+  <a href="https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917"><img src="https://news.mit.edu/sites/default/files/download/202609/MIT-Robot-Labs-02-press.jpg" alt="Robotic optics laboratory: experimental robot arm setup and researchers demonstrating optical components" width="520"></a>
+
+  <sub>Image: <a href="https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917">Jennifer Chu / MIT, experimental setup and optical components</a> · CC BY-NC-ND (see MIT News terms) · Unmodified.</sub>
 
 ## Contributing
 
