@@ -188,7 +188,7 @@ Reaction discovery, synthesis methods, reaction optimization, and general chemic
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7921605/">Shiri et al., Figure 1</a> · <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> · Unmodified.</sub>
 
 - [ ] **A robotic platform for flow synthesis of organic compounds informed by AI planning**  
-  `Automation Station`  
+  `Stationary arm` · `Automation Station`  
   Connor W. Coley, Dale A. Thomas III, Justin A. M. Lummiss, et al.  
   *Science*, **2019**. [Paper](https://doi.org/10.1126/science.aax1566)
 
