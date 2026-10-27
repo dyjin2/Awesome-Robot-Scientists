@@ -14,9 +14,7 @@ This index highlights systems with a mobile base used for experimental manipulat
 | --- | --- | --- | --- |
 | 2020 | [A mobile robotic chemist](#mobile-chemist-2020) | Chemistry & Materials Science | Experimental manipulation across photocatalyst workstations |
 | 2022 | [An all-round AI-Chemist with a scientific mind](#all-round-ai-chemist-2022) | Chemistry & Materials Science | Experimental manipulation across workstations |
-| 2023 | [A robotic platform for the synthesis of colloidal nanocrystals](#colloidal-nanocrystals-2023) | Chemistry & Materials Science | Microplate transport between experimental modules |
 | 2024 | [Automated synthesis of oxygen-producing catalysts from Martian meteorites by a robotic AI chemist](#martian-catalysts-2024) | Chemistry & Materials Science | Sample handling across catalyst preparation and testing stations |
-| 2024 | [Autonomous mobile robots for exploratory synthetic chemistry](#exploratory-chemistry-2024) | Chemistry & Materials Science | Sample transfer between synthesis and analysis stations |
 | 2025 | [A Multiagent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research On Demand](#multiagent-chemist-2025) | Chemistry & Materials Science | Experimental manipulation across workstations |
 | 2026 | [Knowledge-driven autonomous materials research via collaborative multi-agent and robotic system](#mars-2026) | Chemistry & Materials Science | Reagent and consumable transport; experimental operations |
 | 2026 | [X-Automate brings physical and agentic AI to the lab](#x-automate-2026) | Life Sciences | Protein sample plate transport (Wall-E); technical report |
@@ -152,7 +150,7 @@ Chemical synthesis, reaction discovery and optimization, and the discovery, prep
   <sub>Image: <a href="https://www.sciencedirect.com/org/science/article/pii/S2635098X2300030X">Politi et al., Graphical abstract</a> · <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a> · Unmodified.</sub>
 
 - [ ] <a id="colloidal-nanocrystals-2023"></a>**A robotic platform for the synthesis of colloidal nanocrystals**  
-  `Mobile Robot` · `Stationary arm` · `Automation Station`  
+  `Stationary arm` · `Automation Station`  
   Haitao Zhao, Wei Chen, Hao Huang, et al.  
   *Nature Synthesis*, **2023**. [Paper](https://doi.org/10.1038/s44160-023-00250-5)
 
