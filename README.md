@@ -14,7 +14,6 @@ This index highlights systems with a mobile base used for experimental manipulat
 | --- | --- | --- | --- |
 | 2020 | [A mobile robotic chemist](#mobile-chemist-2020) | Chemistry & Materials Science | Experimental manipulation across photocatalyst workstations |
 | 2022 | [An all-round AI-Chemist with a scientific mind](#all-round-ai-chemist-2022) | Chemistry & Materials Science | Experimental manipulation across workstations |
-| 2024 | [Automated synthesis of oxygen-producing catalysts from Martian meteorites by a robotic AI chemist](#martian-catalysts-2024) | Chemistry & Materials Science | Sample handling across catalyst preparation and testing stations |
 | 2025 | [A Multiagent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research On Demand](#multiagent-chemist-2025) | Chemistry & Materials Science | Experimental manipulation across workstations |
 | 2026 | [Knowledge-driven autonomous materials research via collaborative multi-agent and robotic system](#mars-2026) | Chemistry & Materials Science | Reagent and consumable transport; experimental operations |
 | 2026 | [X-Automate brings physical and agentic AI to the lab](#x-automate-2026) | Life Sciences | Protein sample plate transport (Wall-E); technical report |
