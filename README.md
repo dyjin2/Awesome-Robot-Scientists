@@ -4,14 +4,15 @@ A curated reading list of **robot scientists and robotic laboratories that perfo
 
 The focus is on physical robots doing science, from robotic assistants and automated experimental platforms to closed-loop, autonomous discovery systems.
 
-**50 papers + 1 technical report** | **Last curated: October 27, 2026**
+**50 papers + 1 technical report** | **Last curated: October 30, 2026**
 
-## Focus: Mobile Robot
+## Pioneering Works in Robot Scientists
 
-This index highlights systems with a mobile base used for experimental manipulation.
+Selected pioneering works in robot scientists.
 
-| Year | Work | Domain | Mobile robot role |
+| Year | Work | Domain | Robot role |
 | --- | --- | --- | --- |
+| 2004 | [Functional genomic hypothesis generation and experimentation by a robot scientist](#robot-scientist-2004) | Life Sciences | Automated hypothesis generation and experimentation in functional genomics |
 | 2020 | [A mobile robotic chemist](#mobile-chemist-2020) | Chemistry & Materials Science | Experimental manipulation across photocatalyst workstations |
 | 2022 | [An all-round AI-Chemist with a scientific mind](#all-round-ai-chemist-2022) | Chemistry & Materials Science | Experimental manipulation across workstations |
 | 2025 | [A Multiagent-Driven Robotic AI Chemist Enabling Autonomous Chemical Research On Demand](#multiagent-chemist-2025) | Chemistry & Materials Science | Experimental manipulation across workstations |
@@ -20,7 +21,7 @@ This index highlights systems with a mobile base used for experimental manipulat
 
 ## Contents
 
-- [Focus: Mobile Robot](#focus-mobile-robot)
+- [Pioneering Works in Robot Scientists](#pioneering-works-in-robot-scientists)
 - [Chemistry & Materials Science](#chemistry--materials-science)
 - [Life Sciences](#life-sciences)
 - [Physics & Optics](#physics--optics)
@@ -119,7 +120,7 @@ Chemical synthesis, reaction discovery and optimization, and the discovery, prep
 
   <sub>Image: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8863835/">MacLeod et al., Fig. 2</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · Unmodified.</sub>
 
-- [ ] <a id="all-round-ai-chemist-2022"></a>**An all-round AI-Chemist with a scientific mind**  
+- [x] <a id="all-round-ai-chemist-2022"></a>**An all-round AI-Chemist with a scientific mind**  
   `Mobile Robot` · `Automation Station`  
   Qing Zhu, Fei Zhang, Yan Huang, et al.  
   *National Science Review*, **2022**. [Paper](https://doi.org/10.1093/nsr/nwac190)
@@ -342,7 +343,7 @@ Chemical synthesis, reaction discovery and optimization, and the discovery, prep
 
 Biology and biomedical laboratory research, including synthetic biology, protein engineering, microbiology, cell culture, drug discovery, disease models, organoids, regenerative medicine, and experimental neuroscience.
 
-- [ ] **Functional genomic hypothesis generation and experimentation by a robot scientist**  
+- [ ] <a id="robot-scientist-2004"></a>**Functional genomic hypothesis generation and experimentation by a robot scientist**  
   `Automation Station`  
   Ross D. King, Kenneth E. Whelan, Ffion M. Jones, et al.  
   *Nature*, **2004**. [Paper](https://doi.org/10.1038/nature02236)
